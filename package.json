@@ -1,0 +1,28 @@
+{
+  "name": "rn-qrcode-svg",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": "https://github.com/atmulyana/rn-qrcode-svg",
+  "description": "React Native component to generate QRCode",
+  "keywords": [
+    "react-native",
+    "QRCode",
+    "QR"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "peerDependencies": {
+    "qr.js": "*",
+    "react": ">=16.8.0",
+    "react-native": "*",
+    "react-native-svg": "*"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.209.0"
+  }
+}
